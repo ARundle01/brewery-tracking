@@ -24,8 +24,8 @@ remove any current batches.
 
 To begin, click the "Show all tanks" button and "Show running tanks" button. These
 buttons will display all currently empty and running tanks. To update the lists, click
-the corresponding buttons. IMPORTANT: The system does not automatically refresh the lists
-seen, this must be done manually by pressing the corresponding "Refresh" button.
+the corresponding buttons. **IMPORTANT: The system does not automatically refresh the lists
+seen, this must be done manually by pressing the corresponding "Refresh" button.**
 
 ### Adding a new Batch
 
