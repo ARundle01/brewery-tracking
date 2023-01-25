@@ -1,5 +1,10 @@
 # brewery-tracking
 
+![GitHub](https://img.shields.io/github/license/ARundle01/brewery-tracking)
+![GitHub repo size](https://img.shields.io/github/repo-size/ARundle01/brewery-tracking)
+![GitHub top language](https://img.shields.io/github/languages/top/ARundle01/brewery-tracking)
+![GitHub language count](https://img.shields.io/github/languages/count/ARundle01/brewery-tracking)
+
 This repository contains code used for tracking sales data and for modelling the
 brewing process of a brewery.
 
